@@ -33,6 +33,25 @@ Some images which are text based cannot be given image captions. Using OCR and T
 6. Run detector.py in Facia-Recognition folder to run facial recognition authentication module only
 
 ## IMAGES
+<div class="row">
+  <p>LOGIN PAGE</p>
+<img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/Login.png" alt="drawing" width="800"/>
+  <br>
+  <p>FACIAL RECOGNITION</p>
+<img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/Face.png" alt="drawing" width="800"/>
+  <br>
+  <p>HOME PAGE</p>
+<img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/Home.png" alt="drawing" width="800"/>
+  <br>
+  <p>IMAGE CAPTIONING</p>
+<img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/ImageCap.png" alt="drawing" width="800"/>
+  <br>
+  <p>OCR TO AUDIO</p>
+<img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/OCR.png" alt="drawing" width="800"/>
+  <br>
+  <p>AUDIO TO SIGN LANGUAGE</p>
+<img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/SignLang.png" alt="drawing" width="800"/>
+   </div>
 
 
 
