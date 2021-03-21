@@ -5,7 +5,7 @@ Every person has an equal right to information and impairments shouldn’t restr
 
 ## Modules
 ### 1. Authentication using facial recognition
-The image of the user is captured and verified with the existing images present in the database(images saved during sign up)
+The image of the user is captured and verified with the existing images present in the database(images saved during sign up) using Haar Cascade OpenCV.
 ### 2. Video Transcription Using AI Speech Recognition  
 Google Speech to text API is used to get real-time speech to text transcription of video posts, this will help the deaf and dumb to understand the video contents.  
 
@@ -23,6 +23,17 @@ e. Predicting on test data
 Further the text that is generated is converted to audio using google translate API. This helps the blind , to easily access the image.
 ### 5.Text based image and Audio conversion using OCR,Tesseract and NLP
 Some images which are text based cannot be given image captions. Using OCR and Tesseract, this text is extracted. The text is further converted to audio using Google Translate API.
+
+## STEPS TO RUN
+1. Run App.ipynb in Nmit folder jupyter notebook to open the flask webapp  
+2. Run main2.py in audio-to-signs folder to run the Audio to Sign Language - ISL module only
+3. Run Transcription.py in Video_Transcription folder to run the Video to text transcription module only
+4. Run "Image Captioning 8k.ipynb" in Image-Captioning folder to run the Image Caption generation module only
+5. Run ocr.py to run the OCR to audio conversion module only
+6. Run detector.py in Facia-Recognition folder to run facial recognition authentication module only
+
+## IMAGES
+
 
 
 
