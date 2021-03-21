@@ -1,4 +1,4 @@
-# nmit2021 - Social Media Application for Specially Challenged
+# Social Media Application for Specially Challenged
 
 ## Objective :   
 Every person has an equal right to information and impairments shouldn’t restrict people from gaining this information. So, the main motive here is to make social media application, which is a source of information, more accessible to the blind,deaf and dumb. Provisions have to me made keeping in mind their difficulties and interests.
@@ -37,17 +37,27 @@ Some images which are text based cannot be given image captions. Using OCR and T
   <p>LOGIN PAGE</p>
 <img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/Login.png" alt="drawing" width="800"/>
   <br>
+  <br>
+  <br>
   <p>FACIAL RECOGNITION</p>
 <img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/Face.png" alt="drawing" width="800"/>
+  <br>
+    <br>
   <br>
   <p>HOME PAGE</p>
 <img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/Home.png" alt="drawing" width="800"/>
   <br>
+    <br>
+  <br>
   <p>IMAGE CAPTIONING</p>
 <img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/ImageCap.png" alt="drawing" width="800"/>
   <br>
+    <br>
+  <br>
   <p>OCR TO AUDIO</p>
 <img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/OCR.png" alt="drawing" width="800"/>
+  <br>
+    <br>
   <br>
   <p>AUDIO TO SIGN LANGUAGE</p>
 <img src="https://github.com/nishchaljs/nmit2021/blob/main/Screenshots/SignLang.png" alt="drawing" width="800"/>
