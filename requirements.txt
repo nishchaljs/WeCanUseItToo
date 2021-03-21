@@ -1,0 +1,9 @@
+pytesseract
+gTTS
+tesseract.exe
+speech_recognition
+tensorflow
+keras
+opencv-python
+opencv-contrib-python
+numpy
