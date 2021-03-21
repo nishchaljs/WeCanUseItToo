@@ -134,7 +134,7 @@
                 
             </header>
             <video id="vid" witdth="490" height="338" loop="true" controls onmouseover="this.play()" onmouseout="this.pause()"; this.currentTime=0;>
-                <source src="static/images/sample.mp4" type="video/mp4">
+                <source src="static/images/sample.mp4" type="video/mp4" >
             </video>
             <div class="photo__info">
                 
@@ -165,6 +165,16 @@
                     <i class="fa fa-ellipsis-h"></i>
                 </div>
             </div>
+
+            {%if display == 1 %}
+
+             <video id="vid" witdth="490" height="338" controls autoplay loop muted >
+                <source src="static/images/2021-03-21-00-58-42.mp4" type="video/mp4" >
+            </video>
+
+            {%endif%}
+
+
         </div>
     </main>
     <footer class="footer">
